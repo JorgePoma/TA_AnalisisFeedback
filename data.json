@@ -1,0 +1,88 @@
+{
+    "users": [
+        	{
+			"name":"Kim",
+			"comment":"The ticket price is too expensive"
+		},
+		{
+			"name":"Luis",
+			"comment":"I dont like the app because customers could not wait on line for a long time because it covers only a small area"
+		},
+		{
+			"name":"Migdan",
+			"comment":"The app is good"
+		},
+		{
+			"name": "Francis",
+			"comment":"The app is not flexible enough to adapt to different temporaries"
+		},
+		{
+			"name":"Alvaro",
+			"comment":"The app is not user-friendly"
+		},
+		{
+			"name":"Luis",
+			"comment":"I dont like the app because customers could not wait on line for a long time because it covers only a small area"
+		},
+		{
+			"name":"John",
+			"comment":"The app service is perfect"
+		},
+		{
+			"name":"Alvaro",
+			"comment":"The app is not user-friendly"
+		},
+		{
+			"name":"Michael",
+			"comment":"This app is the best for me"
+		},
+		{	
+			"name":"Sophia",
+			"comment":"The app is really good"
+		},
+		{
+			"name":"Tyler",
+			"comment":"This app is so good"
+		},
+		{
+			"name":"Emily",
+			"comment":"The app is too bad"
+		},
+		{
+			"name":"Luis",
+			"comment":"This app is cool but it needs improvements"
+		},
+		{
+			"name":"Meryl",
+			"comment":"This app is not good because it is not working for me"
+		},
+		{
+			"name":"Michael",
+			"comment":"I dont like this app because its not working"
+		},
+		{
+			"name":"Adonica",
+			"comment":"I dont like this app because it has a lot of errors"
+		},
+		{
+			"name":"Anabella",
+			"comment":"I dont like the app because its not working for me"
+		},
+		{
+			"name":"Edward",
+			"comment":"This app is good"
+		},
+		{	
+			"name": "Alex", 
+			"comment": "I like the application because it is very agile"
+		},
+		{
+			"name": "Jane", 
+			"comment": "I like the application because it is very agile"
+		},
+		{
+			"name": "John", 
+			"comment": "The app service is perfect"}
+	]
+    
+}
