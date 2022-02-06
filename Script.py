@@ -12,11 +12,12 @@ import json
 import statistics
 
 #autenticacion con openIA
-
-with open('API-key.json', 'r') as key:
-    API_key = json.load(key) 
-    openai.api_key = API_key['API-key']
-engine_list = openai.Engine.list()
+with open('data.json', 'r') as auth:
+    if auth == {}:
+        with open('API-key.json', 'r') as key:
+            API_key = json.load(key) 
+            openai.api_key = API_key['API-key']
+        engine_list = openai.Engine.list()
 
 d = {}
 d['users'] = []
